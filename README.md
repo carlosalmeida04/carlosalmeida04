@@ -1,5 +1,5 @@
 # Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Carlos Almeida, 16 years old, I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/><br>
+My name is Carlos Almeida, 16 years old, and I'm from <img src="https://image.flaticon.com/icons/svg/197/197463.svg" width="13"/><br>
 - 📜 Learning some new programming languages (python, javascript, c++, C#, Kotlin, Java and much more) and their frameworks
 
 ## &#x1f4c8; My GitHub Stats

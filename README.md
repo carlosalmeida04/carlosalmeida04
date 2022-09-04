@@ -1,5 +1,6 @@
 # Hey everyone! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Carlos Almeida, I am 18 years old, and I'm from <img src="https://img.icons8.com/color/48/000000/portugal.png" width="25"/>
+
 Learning some programming languages  C#, PHP, Javascript(React, React Native & jQuery), CSS, Dart(Flutter), and much more. 
 
 <div >
